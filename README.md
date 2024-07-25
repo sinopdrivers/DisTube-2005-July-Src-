@@ -1,2 +1,6 @@
 # DisTube-2005-July-Src-
-okay look, since distube was shutdown in june 6 2024, i leaked the src because if anyone wanna make better 2005 Revival you should use this, kinda accurate right? if not then delete something you dont like
+
+Okay, look, since DisTube was shut down on June 6, 2024, I leaked the source code. If anyone wants to create a better 2005 revival, you should use this. It's pretty accurate, right? If not, feel free to delete anything you don't like.
+
+<br> To set up DisTube, you need to create a database, import notsports.sql, and then update the SQL details in the files.
+
